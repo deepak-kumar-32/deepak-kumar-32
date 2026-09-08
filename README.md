@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Deepak Kumar
 
-<!--
-**deepak-kumar-32/deepak-kumar-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech CSE Student | Aspiring Full-Stack Developer 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on: **Web Development Projects**
+- 🌱 Currently learning: **JavaScript, Java, DSA & Full-Stack Development**
+- 🤖 Interested in: **Artificial Intelligence & New Technologies**
+- 🤝 Looking to collaborate on: **Beginner-friendly Web Development Projects**
+- 💬 Ask me about: **HTML, CSS, JavaScript & Web Development**
+- ⚡ Fun fact: **I learn best by building projects myself 😄**
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+C • C++ • Python • Java • JavaScript
+
+**Web Development:**  
+HTML • CSS • JavaScript
+
+**Tools:**  
+Git • GitHub • VS Code
+
+---
+
+## 🚀 Projects
+
+- 🌐 Personal Portfolio Website
+- 🍔 Food Nagri
+- 🧘 Yoga Wellness Website
+- 🎓 Digital Certificate Verification System
+
+---
+
+## 📚 Currently Learning
+
+JavaScript → Backend → Database → Full Stack → DSA
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** dn1620823@gmail.com 
+💻 **GitHub:** [Deepak Kumar] [(https://github.com/deepak-kumar-32)]
+
+---
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
