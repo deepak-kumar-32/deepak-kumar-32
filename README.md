@@ -33,7 +33,7 @@ Git • GitHub • VS Code
 - 🌐 Personal Portfolio Website
 - 🍔 Food Nagri
 - 🧘 Yoga Wellness Website
-- 🎓 Digital Certificate Verification System
+
 
 ---
 
